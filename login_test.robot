@@ -11,8 +11,15 @@ Login com sucesso
     Input Text 	    id=password     ${PASSWORD}
     Click Button 	css=.radius
     Page Should Contain 	 You logged into a secure area!
-    Close Browser
+ #   Close Browser
 
+Logout
+    [Documentation]    
+    #Open Browser    ${URL}  chrome
+    Page Should Contain 	 You logged into a secure area!
+    Wait Until Page Contains    Secure Area
+    Click Button 	href="/logout"
+    Close Browser
 
 Login com falha
     [Documentation]
