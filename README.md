@@ -1,6 +1,6 @@
 ## QA Power 29/07/2025
 
-Repositório com a apresentação 
+Repositório com os passos apresentados no QA Power.
 
 Criei esse reposítorio afim de apresentar como avaliação do case proposto
 
