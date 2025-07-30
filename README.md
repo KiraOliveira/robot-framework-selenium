@@ -4,13 +4,14 @@ Repositório com a apresentação
 
 Criei esse reposítorio afim de apresentar como avaliação do case proposto
 
-* Utilizado o framework [Robot](https://robotframework.org/).
+* Utilizado o framework [Robot Framework](https://robotframework.org/).
 
 ---
 
 ## Sobre o repositório
 
 O site [Login Page](https://the-internet.herokuapp.com/login) foi utilizado para realizar a automação da interface web.
+
 O site [Users](https://jsonplaceholder.typicode.com/users) foi utilizado para realizar a automação da api.
 
 ---
