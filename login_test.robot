@@ -1,6 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary
-Resource   ../resources/resorces.robot
+Resource   ../../repositórios/robot-framework-selenium/Resources/resources.robot
 
 *** Test Cases ***
 
@@ -20,5 +20,5 @@ Login com falha
     Input Text 	    id=username     ${USERNAME}
     Input Text 	    id=password     senhaErrada123
     Click Button 	css=.radius
-    Page Should Contain 	 You password is invalid!
+    Page Should Contain 	 Your password is invalid!
     Close Browser
