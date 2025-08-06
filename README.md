@@ -2,8 +2,6 @@
 
 Repositório com os passos apresentados no QA Power.
 
-Criei esse reposítorio afim de apresentar como avaliação do case proposto
-
 * Utilizado o framework [Robot Framework](https://robotframework.org/).
 
 ---
